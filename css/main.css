@@ -1,13 +1,13 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 55%;
     background-color: #fffff2;
     text-align:justify;
-    font-family:'Palatino', 'Didot', 'Serif';
+    font-family:'Didot', 'Palatino', 'Serif';
 }
 
 nav ul, footer ul {
-    font-family:'Didot', 'Didot', 'Serif';
+    font-family:'Didot', 'Palatino', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,7 +32,7 @@ h1 {
 
 p {
     font-size: 1.2em;
-    line-height: 1.2em;
+    line-height: 1.5em;
     color: #333;
 }
 
