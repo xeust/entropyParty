@@ -3,6 +3,7 @@ body {
     width: 60%;
     background-color: #fffff2;
     text-align:justify;
+    font-family:'Palatino', 'Didot', 'Serif';
 }
 
 nav ul, footer ul {
