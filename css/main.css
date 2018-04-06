@@ -5,7 +5,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Didot', 'Palatino', 'Serif';
+    font-family:'Didot', 'Didot', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
