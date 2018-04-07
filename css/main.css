@@ -49,7 +49,7 @@ ul.posts li {
     list-style: none;
 }
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     body {
         width: 85%;
     }
