@@ -3,6 +3,7 @@ body {
     width: 55%;
     background-color: #fffff2;
     font-family:'Didot', 'Palatino', 'Serif';
+    color: #2e2e2e;
 }
 
 nav ul, footer ul {
@@ -15,9 +16,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
-    color: #999;
+    color: #3271b8;
 }
 
 a:hover {
@@ -32,7 +34,7 @@ h1 {
 p {
     font-size: 1.1em;
     line-height: 1.5em;
-    color: #333;
+    color: #2e2e2e;
 }
 
 footer {
