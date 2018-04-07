@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 55%;
     background-color: #fffff2;
     font-family:'Didot', 'Palatino', 'Serif';
 }
@@ -30,7 +30,7 @@ h1 {
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.1em;
     line-height: 1.5em;
     color: #333;
 }
