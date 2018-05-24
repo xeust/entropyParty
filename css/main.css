@@ -1,0 +1,88 @@
+body {
+    margin: 60px auto;
+    width: 55%;
+    background-color: #fffff8;
+    font-family: 'Goudy Old Style', 'Garamond', 'Serif';
+    color: #2e2e2e;
+}
+
+nav ul, footer ul {
+    font-family: 'Didot', 'Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #3271b8;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 3em;
+    font-family:'Didot', 'Didot', 'Serif';
+}
+
+h2 {
+    font-family:'Didot', 'Didot', 'Serif';
+}
+
+h3 {
+    font-family:'Didot', 'Didot', 'Serif';
+}
+
+h4 {
+    font-family:'Didot', 'Didot', 'Serif';
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.6em;
+    color: #2e2e2e;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+ol.posts li {
+  font-size: 1em;
+  line-height: 1.6em;
+}
+
+.footnote{
+    font-size: 0.8em;
+}
+
+.footnotes{
+    font-size: 0.8em;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        width: 90%;
+    }
+}
