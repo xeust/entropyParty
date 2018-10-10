@@ -2,12 +2,20 @@ body {
     margin: 60px auto;
     width: 55%;
     background-color: #fffff8;
+<<<<<<< HEAD
     font-family: 'Goudy Old Style', 'Garamond', 'Serif';
+=======
+    font-family: 'Garamond', 'Serif';
+>>>>>>> dev
     color: #2e2e2e;
 }
 
 nav ul, footer ul {
+<<<<<<< HEAD
     font-family: 'Didot', 'Serif';
+=======
+    font-family: 'Didot', 'Sans-Serif';
+>>>>>>> dev
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -28,6 +36,7 @@ a:hover {
 
 h1 {
     font-size: 3em;
+<<<<<<< HEAD
     font-family:'Didot', 'Didot', 'Serif';
 }
 
@@ -41,6 +50,28 @@ h3 {
 
 h4 {
     font-family:'Didot', 'Didot', 'Serif';
+=======
+    font-family:'Didot', 'Serif';
+
+}
+
+h2 {
+    font-family:'Didot', 'Serif';
+
+}
+
+h3 {
+    font-family:'Didot', 'Serif';
+
+}
+
+h4 {
+    font-family:'Didot', 'Serif';
+}
+
+h5 {
+    font-family:'Didot', 'Serif';
+>>>>>>> dev
 }
 
 p {

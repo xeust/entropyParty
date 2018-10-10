@@ -5,6 +5,10 @@ layout: default
 	<ul class="posts">
 
 	  {% for post in site.posts %}
+<<<<<<< HEAD
 	    <li><span style="font-family:Didot";>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" style="font-family:Didot";>{{ post.title }}</a></li>
+=======
+	    <li><h5><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}";>{{ post.title }}</a></h5></li>
+>>>>>>> dev
 	  {% endfor %}
 	</ul>
