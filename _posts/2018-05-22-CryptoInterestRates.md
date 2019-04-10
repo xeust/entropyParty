@@ -4,10 +4,10 @@ title: "Cryptoasset Interest Rates"
 date: 2018-05-22
 comments: true
 ---
-### **Forward**
+## **Forward**
 *This post is part of my research for a master's thesis, which I am releasing early to stress test the arguments, incorporating and citing feedback. Any constructive criticism is greatly appreciated.*
 
-### **Abstract**
+## **Abstract**
 'Utility tokens' are a form of cryptoasset that serve as an exclusive medium of exchange on a protocol which supplies a specific utility ('utility protocol'). Approaches to value these utility tokens have been put forwards, often using the equation of exchange in combination with discounting to determine a value. Nonetheless, the explanation for the discount rate in these approaches is incomplete. A candidate explanation for discounting is articulated, using Piero Sraffa's concept of 'own-rates' of interest--a concept which has already been put to use on bitcoin.
 
 ## **1. Background**
