@@ -1,5 +1,5 @@
-@import url('//db.onlinewebfonts.com/c/3ddefed97da9f477acddbd34870eb277?family=VanDijckMTW01-Regular');
-@import url('//db.onlinewebfonts.com/c/5c60085789b1949c7c249c3798453196?family=Neuzeit+Grotesk');
+@import url(//db.onlinewebfonts.com/c/3ddefed97da9f477acddbd34870eb277?family=VanDijckMTW01-Regular);
+@import url(//db.onlinewebfonts.com/c/5c60085789b1949c7c249c3798453196?family=Neuzeit+Grotesk);
 
 body {
     margin: 60px auto;
@@ -10,7 +10,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'Neuzeit Grotesk', 'Futura', 'Serif';
+    font-family: 'Neuzeit Grotesk', 'Futura', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
